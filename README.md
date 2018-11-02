@@ -1,5 +1,5 @@
 # word-list-for-programmer(updating)
-以下单词是个人平时阅读英文文档时遇到的一些“生”单词，该文档将持续更新
+以下单词是个人平时阅读英文文档时遇到的一些“生”单词，该文档将持续更新，可以持续关注[https://github.com/hylinux1024/word-list-for-programmer](https://github.com/hylinux1024/word-list-for-programmer)
 
 `hierarchy` 等级制度；层级；n；
 
