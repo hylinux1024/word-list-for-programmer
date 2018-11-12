@@ -45,11 +45,17 @@
 
 `contrive` 设法促成；v；
 
+`contemporaneously` 同时；adj；
+
+`consistent hashing` 一致性哈希算法；
+
 #### D
 
 `decouples` 解耦；v；
 
 `dramatically` 显著地；戏剧性地；adv；
+
+`disastrous` 惨重的；灾难性的；adj；
 
 #### E
 
@@ -74,8 +80,6 @@
 #### H
 
 #### I
-
-
 
 `inherently` 内在的；adv；
 
@@ -176,6 +180,8 @@
 #### W
 
 `withhold` 扣押；保留；v；
+
+`wildcard` 通配符；n；
 
 #### X
 
