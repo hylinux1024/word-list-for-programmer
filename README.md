@@ -49,6 +49,8 @@
 
 `consistent hashing` 一致性哈希算法；
 
+`criteria` 标准；n；
+
 #### D
 
 `decouples` 解耦；v；
@@ -117,9 +119,13 @@
 
 #### M
 
+`monotonically` 单调的；adj；
+
 `miniature` 微型；雏形；adj；
 
 `mutate` 变化；v；
+
+
 
 #### N
 
@@ -165,6 +171,10 @@
 
 `traverse the list` 遍历列表；
 
+`time complexity` 时间复杂度；
+
+`auxiliary space` 辅助空间；
+
 #### U
 
 `utterly` 完全；万般；adj；
@@ -176,6 +186,8 @@
 `unadulterated` 纯正的；adj；
 
 `uniformly distributed` 均匀分布；
+
+`unbounded` 无界的；无限的；adj；
 
 #### V
 
