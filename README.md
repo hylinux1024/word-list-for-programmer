@@ -91,6 +91,8 @@
 
 `interpolate` 插入；添加；v；
 
+`interpolation` 插值；n；
+
 `interstitial` 空隙的；间质性；n；
 
 `in the absence of` 在缺少...之下；
@@ -172,6 +174,8 @@
 `unmodifiable` 不可修改；adj；
 
 `unadulterated` 纯正的；adj；
+
+`uniformly distributed` 均匀分布；
 
 #### V
 
