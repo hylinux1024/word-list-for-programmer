@@ -51,6 +51,10 @@
 
 `criteria` 标准；n；
 
+`consecutive` 连续的；adj；
+
+`converge` 汇合；相交；v；
+
 #### D
 
 `decouples` 解耦；v；
@@ -133,6 +137,8 @@
 
 `overlap` 叠加；v；
 
+`occurrence` 发生；事件；n；
+
 #### P
 
 `primitive` 原语；n；原始的；adj；`primitive man` 原始人；
@@ -175,6 +181,8 @@
 
 `auxiliary space` 辅助空间；
 
+`ternary` 三元；adj；
+
 #### U
 
 `utterly` 完全；万般；adj；
@@ -188,6 +196,8 @@
 `uniformly distributed` 均匀分布；
 
 `unbounded` 无界的；无限的；adj；
+
+`ubiquitous` 无处不在的；普及的；adj；
 
 #### V
 
