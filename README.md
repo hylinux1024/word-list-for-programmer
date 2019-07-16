@@ -23,6 +23,8 @@
 
 `augment` 增加；v；
 
+`agility` 敏捷；n；
+
 #### B
 
 `backend` 后端；n；`backend developer` 后端开发人员；
@@ -55,6 +57,14 @@
 
 `converge` 汇合；相交；v；
 
+`corporate` 法人的；企业的；全体的；adj；
+
+`clunky` 笨重的；adj；
+
+`crave` 渴望得到；恳求；v；
+
+`canonical` 权威性的；典范；adj；
+
 #### D
 
 `decouples` 解耦；v；
@@ -62,6 +72,10 @@
 `dramatically` 显著地；戏剧性地；adv；
 
 `disastrous` 惨重的；灾难性的；adj；
+
+`distinguished` 杰出的；adj；
+
+`demystify` 揭秘；使更加容易理解；v；
 
 #### E
 
@@ -129,7 +143,7 @@
 
 `mutate` 变化；v；
 
-
+`mandatory` 强制性的；adj；
 
 #### N
 
@@ -159,6 +173,10 @@
 
 #### R
 
+`resort` 采取；n；
+
+`rundown` 撞倒；概述；n；
+
 #### S
 
 `scenario` 剧本；概要；场景；n；
@@ -173,6 +191,10 @@
 
 `spin` 转动；v；
 
+`superficial` 外表的；浅的；adj；
+
+`scurry` 疾走；v；
+
 #### T
 
 `traverse the list` 遍历列表；
@@ -182,6 +204,10 @@
 `auxiliary space` 辅助空间；
 
 `ternary` 三元；adj；
+
+`taxonomy` 分类；n；
+
+`thankless` 吃力不讨好的；adj；
 
 #### U
 
