@@ -25,6 +25,10 @@
 
 `agility` 敏捷；n；
 
+`acronym` 首字母缩写；n；
+
+
+
 #### B
 
 `backend` 后端；n；`backend developer` 后端开发人员；
@@ -64,6 +68,8 @@
 `crave` 渴望得到；恳求；v；
 
 `canonical` 权威性的；典范；adj；
+
+`compliant` 兼容；adj；
 
 #### D
 
