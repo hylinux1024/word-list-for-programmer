@@ -27,7 +27,7 @@
 
 `acronym` 首字母缩写；n；
 
-
+`a myriad of` 无数的；
 
 #### B
 
