@@ -83,6 +83,8 @@
 
 `demystify` 揭秘；使更加容易理解；v；
 
+`dedicated worker processes` 专用工作进程；
+
 #### E
 
 `exemplary` 可作楷模的；adv；
@@ -200,6 +202,10 @@
 `superficial` 外表的；浅的；adj；
 
 `scurry` 疾走；v；
+
+`slain` 被杀；杀戮；v；
+
+`significant overhead` 很大的开销；
 
 #### T
 
