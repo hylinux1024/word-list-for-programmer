@@ -13,6 +13,8 @@
 
 `affiliate` 使率属；v；
 
+`avid` 热衷的；酷爱阅读的；adj；
+
 `amortized` 摊销；分期付款；v；`amortized constant time` 均摊不变时间；
 
 `accidental` 偶然；偶发；非主要的；adj；
@@ -41,7 +43,9 @@
 
 #### C
 
-`coroutines` 协程；n；
+`cardinality` 基数；n；
+
+coroutines` 协程；n；
 
 `creepy` 使人心里发毛的；adj；
 
@@ -50,6 +54,8 @@
 `credentials` 证书；凭据；n；
 
 `contrive` 设法促成；v；
+
+`conduit` 管道；渠道；n；
 
 `contemporaneously` 同时；adj；
 
@@ -81,11 +87,15 @@
 
 `distinguished` 杰出的；adj；
 
+`dispense`  分发；v；
+
 `demystify` 揭秘；使更加容易理解；v；
 
 `dedicated worker processes` 专用工作进程；
 
 #### E
+
+`evaporate` 蒸发；破灭；v；
 
 `exemplary` 可作楷模的；adv；
 
@@ -105,6 +115,8 @@
 
 `gratuitous` 不必要的；无理由的；免费的；adj；
 
+`genuinely` 真正地；adv；
+
 #### H
 
 #### I
@@ -112,6 +124,8 @@
 `inherently` 内在的；adv；
 
 `impede` 阻碍；妨碍；拖延；v；
+
+`imperative` 势在必行；迫切；adj；
 
 `inversion` 倒转；颠倒；n；
 
@@ -132,6 +146,8 @@
 `infrastructure` 基础设施；n；
 
 #### J
+
+`jargon` 行话；n；
 
 #### K
 
@@ -163,11 +179,17 @@
 
 #### P
 
+`paragon` 典范；n；
+
 `primitive` 原语；n；原始的；adj；`primitive man` 原始人；
+
+`procrastinate` 拖延；v；
 
 `pragmatic` 务实的；adj；
 
 `permits` 容许；许可；v；
+
+`pertaining` 有关；v；
 
 `pipeline` 管道；n；`to lay a gas pipeline` 铺设煤气管道；
 
@@ -191,15 +213,25 @@
 
 `semantics` 语义(学)；n；
 
+`semblance` 外貌；外表；相似；n；
+
 `specification` 规范；n；
 
+`sparingly` 保守地；不足地；adv；
+
+`spiking` 扣球；刺穿；v；
+
 `stale` 陈旧；不新鲜；adj；
+
+`stylistic` 文体上的；风格上的；adj；
 
 `simultaneously` 同时；adv；
 
 `spin` 转动；v；
 
 `superficial` 外表的；浅的；adj；
+
+`superfluous` 多余的；adj；
 
 `scurry` 疾走；v；
 
@@ -210,6 +242,10 @@
 #### T
 
 `traverse the list` 遍历列表；
+
+`transliteration` 音译；n；
+
+`transitively` 及物动词；v；
 
 `time complexity` 时间复杂度；
 
@@ -223,7 +259,11 @@
 
 #### U
 
+`uphill` 上坡的；adj；
+
 `utterly` 完全；万般；adj；
+
+`unencumbered` 不受妨碍的；adj；
 
 `unsynchronized` 不同步；adj；
 
