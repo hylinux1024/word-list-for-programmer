@@ -31,6 +31,8 @@
 
 `a myriad of` 无数的；
 
+`asymptotic` 渐近；adj；
+
 #### B
 
 `backend` 后端；n；`backend developer` 后端开发人员；
@@ -79,7 +81,11 @@ coroutines` 协程；n；
 
 #### D
 
+`debunk` 揭穿；v；
+
 `decouples` 解耦；v；
+
+`demographics` 人口统计学；n；
 
 `dramatically` 显著地；戏剧性地；adv；
 
@@ -145,6 +151,8 @@ coroutines` 协程；n；
 
 `infrastructure` 基础设施；n；
 
+`isomorphic` 同构的；同形的；adj；
+
 #### J
 
 `jargon` 行话；n；
@@ -181,9 +189,13 @@ coroutines` 协程；n；
 
 `paragon` 典范；n；
 
+`purported` 声称；v；
+
 `primitive` 原语；n；原始的；adj；`primitive man` 原始人；
 
 `procrastinate` 拖延；v；
+
+`promiscuity` 滥交；n；
 
 `pragmatic` 务实的；adj；
 
@@ -216,6 +228,8 @@ coroutines` 协程；n；
 `semblance` 外貌；外表；相似；n；
 
 `specification` 规范；n；
+
+`speculative` 投机的；投机取巧的；adj；
 
 `sparingly` 保守地；不足地；adv；
 
@@ -258,6 +272,8 @@ coroutines` 协程；n；
 `thankless` 吃力不讨好的；adj；
 
 #### U
+
+`ubiquitous` 普遍存在的；adj；
 
 `uphill` 上坡的；adj；
 
