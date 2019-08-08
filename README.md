@@ -37,7 +37,9 @@
 
 `backend` 后端；n；`backend developer` 后端开发人员；
 
-`hierarchy` 等级制度；层级；n；
+`balcony` 阳台；n；
+
+`bigamy` 重婚；重婚罪；n；
 
 `blend` 混合；v；`to blend A and B` 把A和B混合起来；
 
@@ -46,6 +48,8 @@
 #### C
 
 `cardinality` 基数；n；
+
+`chromatic number` (图论)色数；
 
 coroutines` 协程；n；
 
@@ -109,6 +113,8 @@ coroutines` 协程；n；
 
 `entrepreneurship` 创业；n；
 
+`entice` 诱惑；v；
+
 #### F
 
 `formulate` 构想；v；
@@ -124,6 +130,8 @@ coroutines` 协程；n；
 `genuinely` 真正地；adv；
 
 #### H
+
+`hierarchy` 等级制度；层级；n；
 
 #### I
 
@@ -199,6 +207,8 @@ coroutines` 协程；n；
 
 `pragmatic` 务实的；adj；
 
+`planar` 平面的；平坦的；adj；d
+
 `permits` 容许；许可；v；
 
 `pertaining` 有关；v；
@@ -217,11 +227,15 @@ coroutines` 协程；n；
 
 `resort` 采取；n；
 
+`ritual` 仪式；n；
+
 `rundown` 撞倒；概述；n；
 
 #### S
 
 `scenario` 剧本；概要；场景；n；
+
+`serenade` (演奏)小夜曲；v；
 
 `semantics` 语义(学)；n；
 
@@ -294,6 +308,8 @@ coroutines` 协程；n；
 `ubiquitous` 无处不在的；普及的；adj；
 
 #### V
+
+`vacuously` 空洞地；没有表情地；adv；
 
 `verbosity` 啰嗦；冗长；n；
 
