@@ -7,6 +7,8 @@
 
 #### A
 
+`acyclic` 非周期性的；无环的；adj；
+
 `a variety of` 各种各样的；
 
 `aggressively` 积极地；侵略地；激烈地；adv；
@@ -31,13 +33,19 @@
 
 `a myriad of` 无数的；
 
+`ampersands` &符号；n；
+
 `asymptotic` 渐近；adj；
 
 #### B
 
+`billboard` 广告牌；n；
+
 `backend` 后端；n；`backend developer` 后端开发人员；
 
 `balcony` 阳台；n；
+
+`backquotes` 反引号；n；
 
 `bigamy` 重婚；重婚罪；n；
 
@@ -48,6 +56,8 @@
 #### C
 
 `cardinality` 基数；n；
+
+`congestion` 拥塞；n；
 
 `chromatic number` (图论)色数；
 
@@ -105,7 +115,11 @@ coroutines` 协程；n；
 
 #### E
 
+
+
 `evaporate` 蒸发；破灭；v；
+
+`evocative` 唤起的；adj；
 
 `exemplary` 可作楷模的；adv；
 
@@ -185,6 +199,8 @@ coroutines` 协程；n；
 
 `mandatory` 强制性的；adj；
 
+`myriad` 无数；n；
+
 #### N
 
 #### O
@@ -196,6 +212,8 @@ coroutines` 协程；n；
 #### P
 
 `paragon` 典范；n；
+
+`perfunctory` 敷衍的；草率的；adj；
 
 `purported` 声称；v；
 
@@ -251,6 +269,8 @@ coroutines` 协程；n；
 
 `stale` 陈旧；不新鲜；adj；
 
+`stutter` 结结巴巴的说；口吃；n；
+
 `stylistic` 文体上的；风格上的；adj；
 
 `simultaneously` 同时；adv；
@@ -285,6 +305,8 @@ coroutines` 协程；n；
 
 `thankless` 吃力不讨好的；adj；
 
+`trajectory` 轨迹；n；
+
 #### U
 
 `ubiquitous` 普遍存在的；adj；
@@ -292,6 +314,8 @@ coroutines` 协程；n；
 `uphill` 上坡的；adj；
 
 `utterly` 完全；万般；adj；
+
+`unadorned` 朴素；adj；
 
 `unencumbered` 不受妨碍的；adj；
 
